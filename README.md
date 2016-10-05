@@ -2,6 +2,8 @@ EGRET
 =====
 Evil generation of regular expression test strings
 
+[2016 ICST Paper](http://fac-staff.seattleu.edu/elarson/web/Research/egret.pdf)
+
 Licensing and copying information:
 ----------------------------------
 
